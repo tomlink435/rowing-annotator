@@ -1,0 +1,10 @@
+/** Login 页面相关 */
+
+.login-container {
+  background-color: $theme-bg-color;
+  color: $font-color;
+  .login-card {
+    background-color: lighten($theme-bg-color, 4%) !important;
+  }
+
+}
